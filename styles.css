@@ -6,6 +6,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-image: url(back.jpg);
+  text-align: justify;
 }
 
 #tartalom {
@@ -46,10 +47,7 @@ p.kepfelirat {
   font-style: italic;
   text-align: justify;
   line-height: 140%;
-}
-
-p {
-  text-align: justify;
+  text-align: center;
 }
 
 .kiemelt{
